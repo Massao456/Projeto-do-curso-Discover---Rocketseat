@@ -3,7 +3,7 @@
 Projeto desenvolvido em 2 dias
 
 ##
-<img src=".preview.png">
+<img src="./src/assets/preview.png">
 
 ## 🛠️ Tecnologias
 
