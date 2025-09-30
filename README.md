@@ -5,6 +5,8 @@ Projeto desenvolvido em 2 dias
 ##
 <img src="./src/assets/preview.png">
 
+
+
 ## 🛠️ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -18,6 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto é uma cópia de um linktree
 
+### 👨‍💻 Teste o site clicando [AQUI](https://massao456.github.io/Projeto-do-curso-Discover---Rocketseat/)
 
 ## 🖌️ Layout
 
